@@ -5,7 +5,7 @@ clear;
 % Predefine some values.
 Nr=1e3;
 Niter=1e5;
-file='/Users/rjs10/Desktop/IS-bath/data/BnA.csv';
+file='TableS1.csv';
 clean_flag='count';
 
 % Simple metrics.
