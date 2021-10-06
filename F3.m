@@ -7,7 +7,7 @@ wc=0;
 Nr=1e6;
 Nmc=1e2;
 f=0.90;
-file='/Users/rjs10/Desktop/IS-bath/data/BnA.csv';
+file='TableS1.csv';
 clean_flag='all';
 
 % Get the data/weights and compute fraction.
