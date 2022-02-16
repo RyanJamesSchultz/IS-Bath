@@ -1,10 +1,10 @@
 # IS-Bath
 
-We present the Matlab-based codes, IS-Bath that reproduces the figures and analyses in a prior study [Schultz et al., 2021].
+We present the Matlab-based codes, IS-Bath that reproduces the figures and analyses in a prior study [Schultz et al., 2022].
 
 References: 
             
-            R. Schultz, W.L. Ellsworth, & G.C. Beroza. (2021)
+            R. Schultz, W.L. Ellsworth, & G.C. Beroza. (2022)
             Statistical bounds on how induced seismicity stops
             Scientific Reports, 12(1), 1184.
             doi: 10.1038/s41598-022-05216-9.
