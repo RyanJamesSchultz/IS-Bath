@@ -6,8 +6,8 @@ References:
             
             R. Schultz, W.L. Ellsworth, & G.C. Beroza. (2021)
             Statistical bounds on how induced seismicity stops
-            Scientific Reports, xx, xx.
-            doi: XX.
+            Scientific Reports, 12(1), 1184.
+            doi: 10.1038/s41598-022-05216-9.
 
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
